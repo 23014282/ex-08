@@ -51,7 +51,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2023-12-17 212318](https://github.com/23014282/ex-08/assets/150009571/5d53690e-4030-4399-b424-5ecc8be94f57)
+![Screenshot 2023-12-17 212541](https://github.com/23014282/ex-08/assets/150009571/a7002313-d547-4b3d-9649-1d1539a89d83)
+
 
 ## Name: A.JEEVITH
 ## Register Number: 23014282
